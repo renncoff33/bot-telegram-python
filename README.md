@@ -4,5 +4,5 @@
 # botPygram python sederhana🐍
 library : pyTelegramBotAPI
 
-Install:
+#Install:
 pip install pyTelegramBotAPI
