@@ -6,4 +6,5 @@ library : pyTelegramBotAPI
 
 # Install:
 ```
-pip install pyTelegramBotAPI```
+pip install pyTelegramBotAPI
+```
